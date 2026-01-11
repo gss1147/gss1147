@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "scan_dirs": [
+    "X:\\gss1147\\inbox",
+    "X:\\gss1147\\information_core\\watch",
+    "X:\\gss1147\\data"
+  ],
+  "scan_recursive": true,
+  "max_files_per_scan": 50,
+  "scan_interval_sec": 20,
+  "command_inbox_dir": "X:\\gss1147\\inbox_commands",
+  "command_outbox_dir": "X:\\gss1147\\outbox",
+  "command_scan_interval_sec": 10,
+  "fine_tune_interval_sec": 60,
+  "health_check_interval_sec": 60,
+  "auto_patch_proposals": true,
+  "logs_dir": "X:\\gss1147\\logs",
+  "log_jsonl": "X:\\gss1147\\logs\\system_events.jsonl"
+}
