@@ -1,0 +1,172 @@
+GODs Strongest Soldier AI Chatbot 
+
+1. Automated_Tiny_Recursive_Model.py
+Tiny, efficient, recursive intelligence	
+
+2. Automated_Neural_Symbolic_AI.py
+Advanced Logic & Advanced  learning combined	
+
+3. Automated_Agentic_Systems.py
+Multi‑module intelligence
+Self rewriting agents 
+Self debugging agents
+Self referencing agents
+Self evolving agents 
+Self mutation agents
+Self reflection agents
+Self automated agents 
+Automated MOE agents 
+
+4. Automated_Algorithmic_Reasoners.py
+True problem‑solving ability	
+Common sense ai
+Advanced reasoning
+New Fact discovery ai
+Master creative invention ai
+Hyper creative innovation ai 
+Singularity AI Enhancement 
+
+5. Automated_Advanced_Hybird_AI.py
+Advanced Meta-learning 
+Advanced Continuous Learning 
+Advanced Adaptive Learning
+Advanced long/Short term memory
+Automated advanced Reinforcement 
+
+6.  Automated_main_gui.py
+Self Evolving Ai GUI Hologram
+Self automated Ai GUi 
+Self automated chatbox 
+Self automated ai 
+One tab window for each individual Python file with related activity box, tools, Options, graphs, activity meters  and settings. Including independent tab window for long short term memory. 
+Advanced NLP
+
+7. Automated_Infomation_Core.py
+File input for intelligent enhancement. 
+Understands all meta in side PDF files including text, image, video, graph media.
+Understands all media  formats including:
+.csv
+.tsv
+.tab
+.xlsx
+.xls
+.parquet
+.avro
+.orc
+.feather
+.sql
+.dump
+.ods
+.dbf
+.dta
+.sav
+.sas7bdat
+.json
+.jsonl
+.json.gz
+.xml
+.yaml
+.yml
+.toml
+.html
+.db
+.sqlite
+.sqlite3
+.mdb
+.accdb
+.pkl
+.pickle
+.pqt
+.h5
+.hdf5
+.h4
+.he5
+.nc
+.cdf
+.arrow
+.txt
+.log
+.pdf
+.doc
+.docx
+.rtf
+.md
+.markdown
+.jpg
+.jpeg
+.png
+.gif
+.bmp
+.tiff
+.tif
+.webp
+.raw
+.dng
+.mp3
+.wav
+.flac
+.aac
+.ogg
+.m4a
+.aiff
+.wma
+.mp4
+.avi
+.mov
+.mkv
+.flv
+.webm
+.wmv
+.shp
+.geojson
+.topojson
+.kml
+.kmz
+.gpkg
+.tiff
+.tfw
+.dxf
+.gz
+.zip
+.tar
+.7z
+.rar
+.bz2
+.xz
+.rss
+.atom
+.rda
+.rds
+.mat
+.arff
+.por
+.pb
+.onnx
+.pmml
+.h5 
+Self automated realtime finetuning technique. 
+Higher and higher intelligence ai 
+Manual user load files for higher intelligence ai that learns and self evolving ai. 
+Self automated Learning  instantly realtime ai. 
+
+7.  File Folder Dir is X:/gss1147/
+
+8. gss1147 SECERT IS REVERSE ENGENEER GOD INTO SELF AUTOMATED AI CODE.
+
+8. System 
+Display: 27‑inch LED‑backlit IPS, 2560×1440 resolution
+CPU: Intel Core i7‑4771	
+GPU: NVIDIA GeForce GTX 780M, 4GB GDDR5
+RAM: 24 GB DDR3	
+Windows 10 home 
+Windows Powershell
+
+
+	
+
+Developer: 
+Guy DuGan II
+Within Us AI
+
+
+This is the replacement of llm’s learning from scratch and fast evolution on the file using the ai framework from above
