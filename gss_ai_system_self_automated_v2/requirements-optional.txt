@@ -1,0 +1,21 @@
+# Optional dependencies for expanded functionality (install only what you need)
+
+# Data / formats
+pandas>=1.5
+python-docx>=1.0
+beautifulsoup4>=4.12
+opencv-python>=4.8
+soundfile>=0.12
+librosa>=0.10
+
+# Config / parsing
+pyyaml>=6.0
+toml>=0.10
+xmltodict>=0.13
+PyPDF2>=3.0
+
+# GUI
+PyQt5>=5.15
+
+# ML (NOTE: install a torch build compatible with your GPU/CPU)
+torch

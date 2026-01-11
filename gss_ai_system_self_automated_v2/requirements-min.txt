@@ -1,0 +1,2 @@
+# Minimal dependencies to run the orchestrator and core modules
+numpy>=1.22

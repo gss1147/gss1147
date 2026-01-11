@@ -1,0 +1,9 @@
+# Base dependencies for orchestrator + information core (safe defaults).
+# Keep this list minimal; many readers activate extra deps dynamically.
+
+numpy>=1.22
+PyPDF2>=3.0.0
+Pillow>=10.0.0
+pyyaml>=6.0
+toml>=0.10.2
+xmltodict>=0.13.0
