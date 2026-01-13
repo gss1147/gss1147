@@ -1,0 +1,3 @@
+The added files appear to be version strings or tags (like `=0.10`, `=1.0`, etc.) which are not typical file paths but rather seem to be metadata or version identifiers. Since these aren't actual files that would need to be ignored in a repository, and there are no actual build artifacts, dependency directories, or temporary files in the change list, no additional ignore rules are needed.
+
+(empty)
